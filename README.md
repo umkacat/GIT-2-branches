@@ -1,5 +1,5 @@
 # maxInArray & factorial
-### <div align="center">Функция, вычисляющая наибольшее число  🚀</div>  
+### <div align="center">🚀 Функция, вычисляющая наибольшее число</div>  
 ### <div align="center">и функция для вычисления факториала  🚀</div>  
   
 
