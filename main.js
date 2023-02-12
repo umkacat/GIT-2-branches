@@ -18,5 +18,5 @@ if (userChoise == 2) {
 }
 
 else {
-    alert('stop')
+    alert('Exit')
 }
