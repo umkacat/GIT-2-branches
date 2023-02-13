@@ -4,10 +4,7 @@ function factorial1(n) {
 
     for (let i = 1; i <= n; i++) {
         n1 = n1 * i
-        console.log(n1)
     }
-
-    alert(n1)
     
     return(n1)
 }

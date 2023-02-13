@@ -5,16 +5,17 @@ let userChoise = prompt('Введите 1 - для maxInArray, 2 - для factor
 
 if (userChoise == 1) {
 
-    let userArray = prompt('Введите числа через запятую').split(' ')
-    
-    maxInArray(userArray)
+    let userArray = prompt('Введите числа через пробел').split(' ')
+
+    alert(maxInArray(userArray))
+ 
 }
 
 if (userChoise == 2) {
 
     let factNum = prompt('Введите число')
 
-    factorial1(factNum)
+    alert(factorial1(factNum))
 }
 
 else {
